@@ -1,6 +1,4 @@
-# Telegram Bot для связи с администрацией
-
-Бот для обработки сообщений от пользователей и ответов администратора.
+# Telegram Bot
 
 ## Функциональность
 
@@ -14,7 +12,7 @@
 
 1. Клонируйте репозиторий:
 ```bash
-git clone https://github.com/your-username/tgbotcursor.git
+git clone https://github.com/quasar96/tgbotswip.git
 cd tgbotcursor
 ```
 
